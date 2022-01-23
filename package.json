@@ -1,0 +1,12 @@
+{
+  "name": "Typechain",
+  "version": "1.0.0",
+  "description": "Learning Typescript by making a Blockchain with Nomad",
+  "main": "index.js",
+  "author": "lnuvy <hangeulgod@naver.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
